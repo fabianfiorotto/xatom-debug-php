@@ -1,12 +1,10 @@
 {
   "name": "xatom-debug-php",
   "main": "./lib/xatom-debug-php",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "UNOFFICIAL PHP pluggin for XAtom Debug",
-  "keywords": [
-  ],
-  "activationCommands": {
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/fabianfiorotto/xatom-debug-php",
   "license": "MIT",
   "engines": {
