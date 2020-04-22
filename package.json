@@ -1,7 +1,7 @@
 {
   "name": "xatom-debug-php",
   "main": "./lib/xatom-debug-php",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "UNOFFICIAL PHP pluggin for XAtom Debug",
   "keywords": [],
   "activationCommands": {},
